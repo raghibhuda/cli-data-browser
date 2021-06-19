@@ -76,6 +76,9 @@ First question will be like this
         Address: 914 Green Street,Nettie,Virginia
         Balance : $2,221.59
 ```
+Conditions on first query:
+ - You have to find who has the maximum balance from the json data
+ 
 Second will be like this :
 ```
    Are you interested in men ,woman or both  ? (m/f/b/n) : Pressed[f]
