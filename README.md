@@ -113,3 +113,8 @@ Instructions
   - Explain **why** in the comments
   - Don’t write comments that we don’t need
   
+## Submit the solution like this:
+- Clone this repo or download the json file 
+- Make a public or private repo and push the code there . Add me `raghibhuda@gamil.com` as a collaborator there.
+- Add a read me file and describe how to run it locally and provide some working screenshots
+- Cheers !
